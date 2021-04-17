@@ -27,5 +27,7 @@ dependencies {
 test {
     useJUnitPlatform()
 }
-// 1779717550:AAHPJz3DPhds9eFawzbNEBp0VE05izQPgoM
-//-1001480818016
+// 1775488133:AAHOBAitFbZtnQucFfpBbeSoTy2kWaNrVpw
+// 250703824
+
+//https://api.telegram.org/bot1775488133:AAHOBAitFbZtnQucFfpBbeSoTy2kWaNrVpw/getUpdates
